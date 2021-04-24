@@ -1,2 +1,5 @@
 file2.txt
 HelloWorld 
+public ststic void name(HelloWorld){
+	
+}
